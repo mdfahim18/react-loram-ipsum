@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 ## Live site
 
-react-lorem-ipsum1.netlify.app
+https://react-lorem-ipsum1.netlify.app
 
 ## Expanding the ESLint configuration
 
